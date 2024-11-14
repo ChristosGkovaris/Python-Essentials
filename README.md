@@ -10,8 +10,8 @@ Welcome to the "Python Essentials" repository, where you'll find a collection of
 ## How to Run
 - Clone the Repository:
   ```bash
-     git clone https://github.com/ChristosGkovaris/Python-Collections-Essentials.git
-     cd Python-Collections-Essentials
+     git clone https://github.com/ChristosGkovaris/Python-Essentials.git
+     cd Python-Essentials
 
 
 ## Collaboration
