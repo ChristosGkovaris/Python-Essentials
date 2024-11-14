@@ -3,7 +3,7 @@
 Welcome to the "Python Essentials" repository, where you'll find a collection of Python scripts covering various concepts.
 
 
-## Code Instructions
+## Code Overview
 - Objective: The scripts in this repository demonstrate practical Python applications.
 
 
