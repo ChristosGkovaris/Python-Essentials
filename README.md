@@ -1,6 +1,6 @@
-# Python Collections Essentials
+# Python Essentials
 
-Welcome to the "Code Examples" repository, where you'll find a collection of Python scripts covering various concepts such as dictionary manipulation, tuple operations, list sorting, and more.
+Welcome to the "Python Essentials" repository, where you'll find a collection of Python scripts covering various concepts .
 
 
 ## Code Instructions
