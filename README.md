@@ -1,5 +1,4 @@
 # Python Essentials
-
 Welcome to the "Python Essentials" repository, where you'll find a collection of Python scripts covering various concepts.
 
 
